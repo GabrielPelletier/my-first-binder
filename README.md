@@ -1,2 +1,2 @@
 # my-first-binder
-repo to test binder to share and run python code entirely online
+Repo to test Binder, to share and run python code entirely online
